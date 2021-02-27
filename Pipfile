@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+
+[dev-packages]
 pyspark = "==3.0.2"
 ipython = "*"
 "flake8" = "*"
