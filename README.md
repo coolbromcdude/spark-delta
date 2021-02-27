@@ -35,8 +35,10 @@ pipenv lock
 
 
 ## Tests
+Test data will be created in parquet format
 
 ## Running the application
-
+# TODO Add MinIO storage container
+# TODO Docker file to package spark app as image with dependencies
 
 
