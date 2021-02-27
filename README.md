@@ -5,21 +5,21 @@ Template for building spark applications with pyspark and delta.
 
 Install [pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html) to setup virtual environment and manage package dependencies (run and dev) for the project.
 
-####Installing with homebrew
+#### Installing with homebrew
 ```shell
 brew install pipenv
 ```
-####Installing with pip
+#### Installing with pip
 ```shell
 pip3 install pipenv
 ```
 
-####Starting the virtual environment
+#### Starting the virtual environment
 ```shell
 pipenv shell
 ```
 
-####Installing new dependencies
+#### Installing new dependencies
 ```shell
 # dependencies for running the app
 pipenv --install pyspark
